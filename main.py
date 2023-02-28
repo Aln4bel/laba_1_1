@@ -1,5 +1,5 @@
 print("Enter the number A")
-a = int(input())
+a = int(input("A = "))
 print("Enter the number B")
 b = int(input())
 
